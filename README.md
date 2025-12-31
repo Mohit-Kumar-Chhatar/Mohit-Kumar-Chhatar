@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 ---
 
 
-> "Everything is new, untill you can't do." – Mohit Kumar Chhatar
+> "Always believe in your self !" – Mohit Kumar Chhatar
