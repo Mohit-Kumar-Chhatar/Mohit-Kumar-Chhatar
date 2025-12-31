@@ -51,11 +51,5 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kanar&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-kanar&theme=tokyonight)
-![Overall Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kanar&theme=tokyonight)
-
----
 
 > "Everything is new, untill you can't do." – Mohit Kumar Chhatar
