@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔧 Web Developer based in Bhubaneswar, India.
 - 📬 How to reach me: [mohitchhatar086@gmail.com](mohitchhatar086@gmail.com)
 - 🧠 Solved 168+ LeetCode problems, showcasing strong skills in Java, C++, and Python.
-- 🌟 Starred projects like a Chatbot and Spotify Clone, shining with sleek UI and solid backend logic.
 - 🔗 Rocking a cool 400+ connections on [LinkedIn](www.linkedin.com/in/mohit-kumar-chhatar-bb7b5839b)!
 - 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](#).
 
